@@ -1,0 +1,12 @@
+"use strict";
+const names = [];
+names.push("Mahir");
+const namesArr = ["Mahir"];
+names.push("Jack");
+const numbers = [1, 2, 3];
+numbers.push(4);
+let head = numbers[0];
+let arr1 = ["Mahir", 17];
+console.log(arr1);
+let arr2 = ["Mahir", 17, true];
+console.log(arr2);

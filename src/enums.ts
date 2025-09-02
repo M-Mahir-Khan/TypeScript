@@ -8,6 +8,7 @@ enum CardinalDirection{
     West
 }
 
+
 let currentDirection = CardinalDirection.North;
 console.log(currentDirection); // 0
 
